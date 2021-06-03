@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trve copy of the propositions of the King's Commissioners presented to the Commissioners of the Lords and Commons of the Parliament of England, now assembled at Vxbridge : with a letter from a grave divine of the assembly to an honourable person concerning the treaty : as it was sent printed from London, wherein, by their own confession, it is most evident the King's Commissioners have offered all reason concerning the church-government.</title>
+            <title>Uxbridge Propositions (1645)</title>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63499</idno><idno type="EEBO-CITATION">13799282</idno>
+  <idno type="VID">101922</idno>
+  <idno type="EEBO-PROQUEST">2240890698</idno>
+  
+            <idno type="STC">Wing T2664</idno>
+            <idno type="STC">ESTC R12312</idno>
+            <idno type="OCLC">13799282</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trve copy of the propositions of the King's Commissioners presented to the Commissioners of the Lords and Commons of the Parliament of England, now assembled at Vxbridge : with a letter from a grave divine of the assembly to an honourable person concerning the treaty : as it was sent printed from London, wherein, by their own confession, it is most evident the King's Commissioners have offered all reason concerning the church-government.</title>
+                  <title>Uxbridge Propositions (1645)</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Sources.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101922:1"/>
+            <pb facs="tcp:101922:1"/>
+            <p>A TRVE COPY OF THE PROPOSITIONS OF THE <hi>KING'S Commissioners;</hi> Presented to the Commissioners of the Lords and Commons of the Parliament of ENGLAND, now Assembled at <hi>VXBRIDGE.</hi>
+            </p>
+            <p>WITH A Letter from a Grave Divine of the Assem<g ref="char:EOLhyphen"/>bly to an Honourable Person concern<g ref="char:EOLhyphen"/>ing the TREATY.</p>
+            <p>As it was sent Printed from <hi>London,</hi> wherein (by their own confession) it is most evident the KING'S Commissioners have offered all <hi>Reason concerning the Church-Government.</hi>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, Printer to <hi>the Ʋniversity.</hi> 1644.</p>
+         </div>
+         <div type="propositions">
+            <pb facs="tcp:101922:2"/>
+            <pb n="1" facs="tcp:101922:2"/>
+            <head>For the uniting and reconciling all differences between us in the matter of Religion, and pro<g ref="char:EOLhyphen"/>curing a blessed Peace, We are willing</head>
+            <p n="1">
+               <hi>I</hi>
+               <seg rend="decorInit">T</seg>Hat freedom be left to all persons of what opini<g ref="char:EOLhyphen"/>on soever in matters of Ceremony; and that all the penalties of the Lawes and Customes which enjoyne those Ceremonies, be suspended.</p>
+            <p n="2">
+               <hi>II.</hi> That the Bishops shall exercise no Act of Iurisdicti<g ref="char:EOLhyphen"/>on or Ordination; without the consent and counsell of the Presbyters, who shall be chosen by the Clergie of each Dio<g ref="char:EOLhyphen"/>cesse, out of the learneast and gravest Ministers of that Dio<g ref="char:EOLhyphen"/>cesse.</p>
+            <p n="3">
+               <hi>III.</hi> That the Bishop keepe his constant residence in his Diocesse, except when he shall be required by his Majestie to attend Him on any occasion. And that if he not hindered by the infirmities of old age or sicknesse, he preach every Sunday in some Church within his Diocesse.</p>
+            <p n="4">
+               <hi>IV.</hi> That the Ordination of Ministers shall be alwayes in a publique and solemne manner, and very strict Rules obser<g ref="char:EOLhyphen"/>ved concerning the sufficiencie and other qualifications of those men who shall be received into holy Orders; and the Bi<g ref="char:EOLhyphen"/>shop shall not receive any into holy Orders without the ap<g ref="char:EOLhyphen"/>probation and consent of the Presbyters, or the major part of them.</p>
+            <p n="5">
+               <pb n="2" facs="tcp:101922:3"/>
+               <hi>V.</hi> That competent maintenance and provision be establi<g ref="char:EOLhyphen"/>shed by Act of Parliament to such Vicarages as belong to Bi<g ref="char:EOLhyphen"/>shops, Deanes and Chapters, out of the Impropriations, and ac<g ref="char:EOLhyphen"/>cording to the value of those Impropriations of the severall Parishes.</p>
+            <p n="6">
+               <hi>VI.</hi> That for the time to come no man shall be capable of two Parsonages or Vicarages with cure of Soules.</p>
+            <p n="7">
+               <hi>VII.</hi> That toward the setling of the publike Peace, <hi>100000<seg rend="sup">l</seg>
+               </hi> shall be raised by Act of Parliament out of the e<g ref="char:EOLhyphen"/>states of Bishops, Deanes and Chapters in such manner as shal be thought fit by the King and two Houses of Parliament, without the alienation of any of the said Lands.</p>
+            <p n="8">
+               <hi>VIII.</hi> That the Iurisdiction in Causes Testamentary, Decimals and Matrimoniall, be setled in such manner as shall seem most convenient by the King and two Houses of Parliament, and likewise that one or more Acts of Parlia<g ref="char:EOLhyphen"/>ment be past for regulating of Visitations, and against immo<g ref="char:EOLhyphen"/>derate Fees in Ecclesiasticall Courts, and the abuses by fri<g ref="char:EOLhyphen"/>volous Excommunications, and all other abuses in the exercise of Ecclesiasticall Iurisdiction, in such manner as shall be a<g ref="char:EOLhyphen"/>greed upon by His Majesty and both Houses of Parliament.</p>
+            <p>
+               <hi>And if your Lordships shall insist upon any other thing which your Lordships shall think necessary for Re<g ref="char:EOLhyphen"/>formation, We shall very willingly apply Our selves to the consideration thereof.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:101922:3"/>
+            <head>A Letter from a Divine in LONDON, to an Honourable Person, concerning the <hi>Ʋxbridge Treaty.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall according to my custome give you no<g ref="char:EOLhyphen"/>tice of the chiefe Occurrents which this week hath brought forth; considering that now in time of Treaty, you who are a lover of Peace and Truth, will be a little impati<g ref="char:EOLhyphen"/>ent to heare what is done at <hi>Ʋxbridge</hi> to<g ref="char:EOLhyphen"/>ward the joyning of those two together. To this purpose I was afraid I should have had but little to advertise, for the nine first daies produced little; but when the businesse of the Church retur<g ref="char:EOLhyphen"/>ned againe, although there was great contention to keep up all for the Prelaticall party in its former height, and to that purpose little done in the two first daies, besides Disputation betwixt their Di<g ref="char:EOLhyphen"/>vines and ours, they holding stiffely that Episcopacy was instituted by Christ and his Apostles, and that the destroying it would induce Sacriledge, and be against the Kings Oath, directly taken to pre<g ref="char:EOLhyphen"/>serve the Bishops; yet at the third and last day the great Lords and other Commissioners on their side began to speake some reason; and though for sooth to please the Divines they would not yeeld to our Bill in the forme that it was offered to them; yet to tell truth between you and me, they have done more then ever we thought they would have done, and that (as cunning as they are) which will serve our turnes as well as if they had past the whole Bill, and set up Presbyterie as high as we desire it should be set; for you
+<pb n="4" facs="tcp:101922:4"/>know 'tis not a <hi>Scotland,</hi> or a <hi>Jure divino,</hi> Presbytery that we are for, that would give us but little ease from our former pressures, but onely change the seat of that power, and give us many instead of one Bishop in every Diocesse. But that which we desire, is such an one as will be most agreeable to the Word of God, according to our Covenant, and to the Civill State, which being of a King ruling in Parliament, and doing nothing but upon the Advice and Con<g ref="char:EOLhyphen"/>sent of this great Councell, is directly proportionable to what is here offered in the Church by the Bishop and his Presbyters, who also must be chosen by the Clergy, as our Knights and Burgesses are by the Free-holders. If this be resolved on, we shall have our good Lord Bishops a little humbler then they were, and if you mark, they must be set to Preaching too, and if they doe that according to this order once a week, we shall not heare so often from their Courts, but oftner from their Pulpits, where we shall be as glad to meet them, as before we were sorry in that other more chargeable place.</p>
+            <p>I have here inclosed the severall Propositions which were then offered, and by the Postscript you will perceive that they are not now so strait laced, but that they will heare of some more too, if these will not serve. But if all these be once really granted, and that grant formed into a Law, or Lawes, and moulded handsomely in a Parliamentary way, I think we shall not need trouble them with more Propositions, whatsoever were farther taken from them, and added to the Presbytery, would make that government lesse conve<g ref="char:EOLhyphen"/>nient for our turne, and within a while bring us newes of as many grievances from that, as you and I have ever talkt of in the other. And truly under the Rose I see not what more to ask. For you know and remember what those grievances were, which moved us to think so earnestly of a change, and because we could not be heard in our just desires, at length to proceed to that Ordinance and our Co<g ref="char:EOLhyphen"/>venant against root and branch; and for a Presbytery in its stead. One was the Antichristian Tyranny of the Bishops upon our Con<g ref="char:EOLhyphen"/>sciences in point of Ceremonies, which were prest so bard where there was any Law to avow it, and brought in so insidiously where there was none, and all our godly Ministers silenced that would not obey the first, and discountenanced and kept out of preferments that would not advance the second sort, all of us blasted for <hi>Puri<g ref="char:EOLhyphen"/>tans</hi> and <hi>Round-heads,</hi> and, when they durst, cited to Courts, and
+<pb n="5" facs="tcp:101922:4"/>high Commission, because we would not, <hi>(i. e.)</hi> could not in con<g ref="char:EOLhyphen"/>science conforme to those traditions of man. Well, now you see their stomacks are come down, they will heare reason in this point in their first Proposition, and so farewell Ceremonies and Bishops Courts, and Visitations, that never lookt after nothing else but the observation of these.</p>
+            <p>Another thing that we were wont to dislike in them, was their Lording it over the Clergy, no body worthy to doe any thing about the government of the Church, but my good Lord Bishop; and his Chancellour, and Officiall; and they could doe what they pleased, and no body permitted to interpose for us, but excommunications come out against us, somtimes, before ever we heard that we were in the Court; But now in the second Proposition the Presbyters must have as much to doe in all Acts of jurisdiction as he, and hee can never doe any thing without the consent of all, or at least a ma<g ref="char:EOLhyphen"/>jor part of them, and if they will be so base as to complot and con<g ref="char:EOLhyphen"/>curre with him against us, especially when they are chosen by the Clergy, and have no dependance on him. I confesse I cannot much hope for any great comfort or joy we should have reaped, if the whole government had by way of perfect parity been put into Presbyters hands.</p>
+            <p>Another quarrell we had to them, (and that sine so just an one, that the Papists themselves insisted upon it vehemently in the Councell of Trent) was their non residence from their Diocesse, but living at their ease or pleasure wheresoever they would, &amp; ne<g ref="char:EOLhyphen"/>ver preaching (some of them) once in a twelve month. But now in the third Proposition they must be sent home from tithing to tithing, if they are vagrant, and kept close to their duty, and taught to Preach again, which their greatnesse had made them forget, and you shall see how handsomely some of them will doe it once a week, who never pend a Sermon yet but what they had sweat a month for.</p>
+            <p>Again you know nothing was more frequently and justly de<g ref="char:EOLhyphen"/>claimed at, then the stealing in of unworthy men into the Clergy, at the window or the back dore, who could not venture on the course required to a faire admittance: and hence is it that so many Popish idle fellowes that were for nothing but ceremonies, and reading of prayers, and so many debaucht ignorant fellowes crept
+<pb n="6" facs="tcp:101922:5"/>into Benefices, or Curateships. Now the fourth Proposition if it may be observed, will make sufficient provision against all this, and provide for us a sufficient or thodox, learned, painfull, orderly Cler<g ref="char:EOLhyphen"/>gy, and if such Lawes when they are made, be neglected, I know not what to say, but that if that our whole bill had past, we should have still been in that danger.</p>
+            <p>Another intollerable abuse was, for the Bishops and Cathedrall Churches who held Impropriations, and ought to have taken good care for the serving of the Churches, and to have given good ex<g ref="char:EOLhyphen"/>ample to the Laity, did yet most scandalously leave a Vicar to dis<g ref="char:EOLhyphen"/>charge the whole burthen, &amp; adde nothing to his Vicaridge, which was worth sometimes but 20 Nobles a yeare, sometimes but little more, and accordingly was fitted with some poor soule that would sit down upon such a pension. But now the fifth Proposition makes provision for that, and I hope the Parliament will not leave them to proportion it, but appoynt them to make every such Vicarage worth 50<seg rend="sup">l</seg> or 100 mark <hi>per annum</hi> at the least, and let the parish have such an one as they like, to enjoy it, and preach constantly a<g ref="char:EOLhyphen"/>mong them.</p>
+            <p>In the next place you know how justly we complained of the two steeples, the spirituall Bygamy or Polygamy, &amp; what a horrible corruption that was in it selfe, and what consequents attended it, that the Kings and Lords Chaplains must have all, (every man his <hi>tot quot &amp; omnes</hi>) and an honest man not able to get one, but con<g ref="char:EOLhyphen"/>tent himselfe with a Cure or a Lecture, and take all the pains for a pittance, when the fat Pluralist had 2 or 3 hundred a year for doing nothing. But now, their sixth Proposition hath fetcht them off from their Iewish Polygamy, &amp; will make every one live with his own wife according to the Apostles rule of <hi>a benevolence,</hi> and then the wife will be brought to love and reverence her husband.</p>
+            <p>Again you know how oft we have talkt of the riches of the Bi<g ref="char:EOLhyphen"/>shops and Cathedrall Churches which came into them for doing of nothing, while the Country Clergy could scarce pay their first Fruits, Tenths, and Subsidies, &amp; live in any tolerable manner upon the remainder, and that in all charges, the poor Vicar (being so high in the Kings books) had nothing to think of but how he might pro<g ref="char:EOLhyphen"/>vide for bread, and payments. But now the seventh Proposition layes that on the right shoulders, and (besides that I hope this may
+<pb n="7" facs="tcp:101922:5"/>be a president for the future) this Summe of 100000<seg rend="sup">l</seg> being to be raised on so few, and those for the most part old men, will be a pretty fleecing of them after the sequestrations are taken off, and by that time that burthen is off from their shoulders, it is to be hoped that honest and grave men of our friends may be gotten into their places, who sure may deserve to enjoy what these are fit onely to receive, and pay in, to the good of the State.</p>
+            <p>You know our last but forest grievance was Ecclesiasticall Courts, which no body could keep from having to doe with sometimes, if not about Ceremonies, yet about probats of Wills and Tythes, <hi>&amp;c.</hi> and when once we came into their clutches, then Master <hi>Officiall,</hi> and Master <hi>Register,</hi> and Master <hi>Proctor,</hi> and Master <hi>Goodman Apparitor,</hi> must have each their penniworths out of us; But now the eight Proposition hath released us from all those setters, and pressures; and the wise<g ref="char:EOLhyphen"/>dome of Parliament, I hope, (to whom it is referred) will put it into some directer and easier course by intrusting the com<g ref="char:EOLhyphen"/>mon law with it, or finding out some other way which shall be most agreeable, and medicinall to our disease.</p>
+            <p>And truly let me make you my Confessor, I know not what can make the Parliament unsatisfied in this poynt of the Church, the first and main part of our Treaty; (if the <hi>Militiae</hi> and <hi>Ireland</hi> may be agreed on) unlesse it be th<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, concerning the Lands, which you know are to be given to the <hi>Scots,</hi> as ap<g ref="char:EOLhyphen"/>peares by the reference in our Bill to that in <hi>Edinburgh.</hi> But this our Assembly I beleeve will take as ill, as the Prelates, for all of them, that I ever met with, are against alienating of the Lands to any but sacred uses; and the truth is, the giving them to the <hi>Scots</hi> (if they were alienated) would give them too great a hold in our Kingdom, every Bishoprick will plant them in a faire mannor and demeanes in each Diocesse through <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> and then having a third part in the Commissi<g ref="char:EOLhyphen"/>on for the <hi>Militiae,</hi> though they may if they please be by that the better fitted to be the Conservators of the Peace of the Kingdome, yet if they should have any respect to their owne interests, any ambitious or insidious designes, this with the
+<pb n="8" facs="tcp:101922:6"/>strength they have already both in <hi>England</hi> and <hi>Ireland,</hi> may be a good faire step toward the Command of all the three Kingdomes.</p>
+            <p>The truth is, I heare some conceive themselves obliged by the Covenant which we have taken, not to lay downe Armes without root and branch, the absolute abolition of the whole order. But sure these men doe either not marke, or not under<g ref="char:EOLhyphen"/>stand the Covenant aright. For to that part of it which con<g ref="char:EOLhyphen"/>cernes our Brethren of <hi>Scotland,</hi> and the securing of them in the continuance of their Government against the Machinati<g ref="char:EOLhyphen"/>ons of the Prelates here (which sure was the sole reason that at their late comming in, they desired we should joyne with them in that Covenant) I have no reason to doubt but that worke is done.</p>
+            <p>And for that which concernes this Kingdome, the taking away the present Forme of Prelacy by Arch-Bishops, Bishops, Deanes and Chapters, <hi>&amp;c.</hi>
+            </p>
+            <p n="1">1. I conceive that all that we have sworne, is but to endea<g ref="char:EOLhyphen"/>vour that, and in that we can perfectly satisfie our selves; that if the spending our Estates, venturing our Lives, doing what ever the Parliament hath required of us, may be called Endea<g ref="char:EOLhyphen"/>vouring, we have then discharged our Oath.</p>
+            <p n="2">2. I make no doubt, but if a new Forme of Government be drawne up according to the Propositions now offered, it will be quite another Forme from that of Arch-Bishops, <hi>&amp;c.</hi>
+            </p>
+            <p>And 3. I must adde, that we meant not to take away what was good or lawfull, but onely that which was unlawfull and grievous; and many of the Assembly in expounding the Cove<g ref="char:EOLhyphen"/>nant to their people, told them that it was not against a mode<g ref="char:EOLhyphen"/>rate or limited Presidency or Episcopacy, (wherein Presby<g ref="char:EOLhyphen"/>ters should have joynt sociall power) but onely against the sole tyrannicall Antichristian power of Bishops, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. To shrift my selfe to you; seeing we have generally con<g ref="char:EOLhyphen"/>sest that it is not lawfull to fight for Religion, especially for so slight a part of it, as the Government of the Church, we should not be able to stand to our Principles, if we should break the Treaty for Peace upon these Tearmes, and fall to fighting
+<pb n="9" facs="tcp:101922:6"/>againe, which you know we professe to doe, onely on that other ground of defending the Priviledges of Parliament, and that just legall power of theirs of bringing Delinquents to condigne punishment; and if they be opposed in it, of raising the <hi>Posse Regni,</hi> for that purpose.</p>
+            <p>I have kept you too long in this discourse, the Conclusion whereof shall be willing to give you some reward for your pa<g ref="char:EOLhyphen"/>tience of all this trouble, by telling you what I heare; that though these Propositions be not yet accepted, yet if the two other businesses can be composed in the other sixe dayes, there will be two dayes of the Twenty left; and in them, if no more will be yeelded to, these that are offered shall be accepted, which may produce a happy Peace. For which that it may be to Gods glory, and the satisfaction of all our Consciences, that we have sincerely done our duties, is the Prayer of</p>
+            <closer>
+               <signed>Your Lordships, &amp;c.</signed>
+               <date>FEB. 17.</date>
+            </closer>
+         </div>
+         <div type="list_of_the_kings_commissioners">
+            <pb n="10" facs="tcp:101922:7"/>
+            <head>Commis. pro Rege.</head>
+            <list>
+               <item>
+                  <hi>Duke of</hi> Richmond <hi>and</hi> Lenox.</item>
+               <item>
+                  <hi>Marquesse of</hi> Hertford.</item>
+               <item>
+                  <hi>Earle of</hi> Southampton.</item>
+               <item>
+                  <hi>Earle of</hi> Kingston.</item>
+               <item>
+                  <hi>Earle of</hi> Chichester.</item>
+               <item>
+                  <hi>The Lord</hi> Capell.</item>
+               <item>
+                  <hi>Lord</hi> Seymour.</item>
+               <item>
+                  <hi>Lord</hi> Hatton.</item>
+               <item>
+                  <hi>Lord</hi> Culpeper.</item>
+               <item>
+                  <hi>Sir</hi> Edward Nicholas.</item>
+               <item>
+                  <hi>Sir</hi> Edward Hide.</item>
+               <item>
+                  <hi>Sir</hi> Richard Lane.</item>
+               <item>
+                  <hi>Sir</hi> Tho. Gardiner.</item>
+               <item>
+                  <hi>Sir</hi> Orlando Bridgeman.</item>
+               <item>
+                  <hi>Master</hi> John Ashburnham.</item>
+               <item>
+                  <hi>Master</hi> Jeffery Palmer.</item>
+               <item>
+                  <hi>Doctor</hi> Steward.</item>
+            </list>
+         </div>
+         <div type="list_of_Parliamentary_commissioners">
+            <head>Commis. pro Parl.</head>
+            <list>
+               <item>
+                  <hi>Earle of</hi> Northumberland.</item>
+               <item>
+                  <hi>Earle of</hi> Pembroke.</item>
+               <item>
+                  <hi>Earle of</hi> Salisbury.</item>
+               <item>
+                  <hi>Earle of</hi> Denbigh.</item>
+               <item>
+                  <hi>Lord</hi> Wenman.</item>
+               <item>
+                  <hi>Master</hi> Ho<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</item>
+               <item>
+                  <hi>Master</hi> Pairpoint.</item>
+               <item>
+                  <hi>Sir</hi> Henry Vane, <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>Master</hi> Crew.</item>
+               <item>
+                  <hi>Master</hi> Whitlock.</item>
+               <item>
+                  <hi>Master</hi> Saint Johns.</item>
+               <item>
+                  <hi>Master</hi> Prideaux.</item>
+               <item>
+                  <hi>Lord</hi> Lowdon.</item>
+               <item>
+                  <hi>Sir</hi> Charles Erskin.</item>
+               <item>
+                  <hi>Master</hi> Dundas.</item>
+               <item>
+                  <hi>Master</hi> Brackley.</item>
+               <item>
+                  <hi>Master</hi> Henderson.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101922:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
